@@ -36,7 +36,8 @@ local palette = {
   fg0     = "#00ff00", -- Lighter fg
   --fg1     = "#e6eaea", -- Default fg
   fg1     = "#0000ff", -- Default fg
-  fg2     = "#cbd9d8", -- Darker fg (status line)
+  --fg2     = "#cbd9d8", -- Darker fg (status line)
+  fg2     = "#ff00ff", -- Darker fg (status line)
   fg3     = "#587b7b", -- Darker fg (line numbers, fold colums)
 
   sel0    = "#293e40", -- Popup bg, visual selection bg
