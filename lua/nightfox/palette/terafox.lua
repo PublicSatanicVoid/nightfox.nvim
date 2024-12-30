@@ -19,7 +19,8 @@ local palette = {
   blue    = Shade.new("#5a93aa", "#73a3b7", "#4d7d90"),
   magenta = Shade.new("#ad5c7c", "#b97490", "#934e69"),
   cyan    = Shade.new("#a1cdd8", "#afd4de", "#89aeb8"),
-  white   = Shade.new("#ebebeb", "#eeeeee", "#c8c8c8"),
+  --white   = Shade.new("#ebebeb", "#eeeeee", "#c8c8c8"),
+  white   = Shade.new("#ff0000", "#ff0000", "#ff0000"),
   orange  = Shade.new("#ff8349", "#ff9664", "#d96f3e"),
   pink    = Shade.new("#cb7985", "#d38d97", "#ad6771"),
 
@@ -31,8 +32,10 @@ local palette = {
   bg3     = "#254147", -- Lighter bg (cursor line)
   bg4     = "#2d4f56", -- Conceal, border fg
 
-  fg0     = "#eaeeee", -- Lighter fg
-  fg1     = "#e6eaea", -- Default fg
+  --fg0     = "#eaeeee", -- Lighter fg
+  fg0     = "#00ff00", -- Lighter fg
+  --fg1     = "#e6eaea", -- Default fg
+  fg1     = "#0000ff", -- Default fg
   fg2     = "#cbd9d8", -- Darker fg (status line)
   fg3     = "#587b7b", -- Darker fg (line numbers, fold colums)
 
