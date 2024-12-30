@@ -34,14 +34,14 @@ local palette = {
   bg4     = "#2d4f56", -- Conceal, border fg
 
   --fg0     = "#eaeeee", -- Lighter fg
-  fg0     = "#e6eaea", -- Lighter fg
-  --fg0     = "#00ff00", -- Lighter fg  --for debug
+  --fg0     = "#e6eaea", -- Lighter fg
+  fg0     = "#00ff00", -- Lighter fg  --for debug
   --fg1     = "#e6eaea", -- Default fg
-  fg1     = "#e3e6e6", -- Default fg
-  --fg1     = "#0000ff", -- Default fg  --for debug
+  --fg1     = "#e3e6e6", -- Default fg
+  fg1     = "#0000ff", -- Default fg  --for debug
   --fg2     = "#cbd9d8", -- Darker fg (status line)
-  fg2     = "#c4c4c4", -- Darker fg (status line)
-  --fg2     = "#ff00ff", -- Darker fg (status line)  --for debug
+  --fg2     = "#c4c4c4", -- Darker fg (status line)
+  fg2     = "#ff00ff", -- Darker fg (status line)  --for debug
   fg3     = "#587b7b", -- Darker fg (line numbers, fold colums)
 
   sel0    = "#293e40", -- Popup bg, visual selection bg
