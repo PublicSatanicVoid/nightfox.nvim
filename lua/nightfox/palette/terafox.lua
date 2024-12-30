@@ -20,7 +20,7 @@ local palette = {
   magenta = Shade.new("#ad5c7c", "#b97490", "#934e69"),
   cyan    = Shade.new("#a1cdd8", "#afd4de", "#89aeb8"),
   --white   = Shade.new("#ebebeb", "#eeeeee", "#c8c8c8"),
-  white   = Shade.new("#c4c4c4", "#c6c6c6", "#c8c8c8"),
+  white   = Shade.new("#c8c8c8", "#c8c8c8", "#c8c8c8"),
   --white   = Shade.new("#ff0000", "#ff0000", "#ff0000"),  --for debug
   orange  = Shade.new("#ff8349", "#ff9664", "#d96f3e"),
   pink    = Shade.new("#cb7985", "#d38d97", "#ad6771"),
@@ -40,7 +40,7 @@ local palette = {
   fg1     = "#e3e6e6", -- Default fg
   --fg1     = "#0000ff", -- Default fg  --for debug
   --fg2     = "#cbd9d8", -- Darker fg (status line)
-  fg2     = "#c9d6d5", -- Darker fg (status line)
+  fg2     = "#c4c4c4", -- Darker fg (status line)
   --fg2     = "#ff00ff", -- Darker fg (status line)  --for debug
   fg3     = "#587b7b", -- Darker fg (line numbers, fold colums)
 
